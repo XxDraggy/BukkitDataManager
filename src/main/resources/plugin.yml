@@ -1,0 +1,6 @@
+name: DataManager
+version: '${project.version}'
+main: com.xxdraggy.datamanager.DataManager
+api-version: 1.20
+authors: [ Xx_Draggy ]
+description: A data manager for minecraft bukkit
